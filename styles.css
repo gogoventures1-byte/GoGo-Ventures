@@ -1,1 +1,10 @@
 body { font-family: Arial; padding: 40px; }
+/* Change background color */
+body {
+    background-color: yellow; /* replace with any color you like */
+    
+    /* Optional: background image */
+    background-image: url('IMG_7707.jpeg); /* replace with your uploaded image filename */
+    background-size: cover; /* makes the image cover the whole page */
+    background-repeat: no-repeat; /* prevents tiling */
+}
